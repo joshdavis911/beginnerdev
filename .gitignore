@@ -1,1 +1,159 @@
+# Visual Studio
+.vscode/
+.vscode/*
+.vs/
+.vs/*
+*.code-workspace
 
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code
+.vscode/*
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono auto generated files
+mono_crash.*
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+# Windows shortcuts
+*.lnk
+
+# C++ specific
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.obj
+*.o
+*.lo
+*.la
+*.al
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.ncb
+*.sdf
+*.opensdf
+*.vcxproj.user
+*.vcxproj.filters
+*.VC.db
+*.VC.opendb
+*.idb
+
+# Output files
+*.ilk
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vlog
+*.vspscc
+*.vspxproj
+*.vsmdi
+*.testsettings
+*.vssettings
+*.ruleset
+*.userprefs
+*.filters
+*.props
+*.exrc
+*.scc
+*.sln.docstates
+
+# Local history for Visual Studio
+.vs
+
+# Visual Studio 2019
+.vs2019
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains Rider
+.idea/
+.idea/*
+
+# C++ specific
+*.d
+*.obj
+*.o
+*.lo
+*.la
+*.al
+*.libs
+*.dll
+*.so
+*.so.*
+*.dylib
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+*.idb
+*.pdb
+*.ilk
+*.lib
+*.a
+*.la
+*.lo
+*.suo
+*.def
+*.exp
+*.ncb
+*.sdf
+*.opensdf
+*.vcxproj.user
+*.vcxproj.filters
+*.VC.db
+*.VC.opendb
+*.sln.docstates
